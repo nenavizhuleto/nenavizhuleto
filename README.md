@@ -19,10 +19,10 @@ It's microservice architecture and very flexible solution.
 
 ### 🌱 I’m currently learning:
 
-- Mastering `Golang`
-- Looking further for an AI and `Deep Learning` with various programming languages
+- Mastering [Golang](https://go.dev/)
+- Looking further for an AI and [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning) with various programming languages
 - Software Design and System Architecture
-- Going deep with functional programming with `Elixir`
+- Going deep with functional programming with [Elixir](https://elixir-lang.org/)
 - Contributing to OSS and developing useful `Free Software`
 - Progressive [R]everse [E]ngineering
 
