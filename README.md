@@ -5,12 +5,27 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 -->
+
+### 🔭 I’m currently working on:
+
+`AI Driven Surveillance System`
+
+It's microservice architecture and very flexible solution.
+
+### 🌱 I’m currently learning:
+
+- Mastering `Golang`
+- Looking further for an AI and `Deep Learning` with various programming languages
+- Software Design and System Architecture
+- Going deep with functional programming with `Elixir`
+- Contributing to OSS and developing useful `Free Software`
+- Progressive [R]everse [E]ngineering
+
+### 💬 Ask me about anything you would like!
+
+### 📫 How to reach me: [Telegram](https://t.me/nenavizhuleto)
