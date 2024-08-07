@@ -11,17 +11,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 -->
 
-### 🔭 I’m currently working on:
-
-`AI Driven Surveillance System`
-
-It's microservice architecture and very flexible solution.
+### 🔭 I’m currently working on: [Vi.tech](https://vitech.team/) @ Order Management System
 
 ### 🌱 I’m currently learning:
 
 - Mastering [Golang](https://go.dev/)
-- Looking further for an AI and [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning) with various programming languages
 - Software Design and System Architecture
+- DevOps Culture: K8s & Terraform
 - Going deep with functional programming with [Elixir](https://elixir-lang.org/)
 - Contributing to OSS and developing useful `Free Software`
 - Progressive [R]everse [E]ngineering
